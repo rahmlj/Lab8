@@ -72,7 +72,7 @@ public class GuessingGame implements ActionListener {
       userGuess.setText("");
     }
     else{
-      highlowlbl.setText("You pressed Enter.  Please press the Guess Button");
+      highlowlbl.setText("You pressed Enter.  \n Please press the Guess Button");
     }
   }
 }
